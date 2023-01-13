@@ -10,7 +10,7 @@ notebooks/xlnet_clf/
 notebooks/calculus/
 notebooks/calculus_english_to_latex/
 notebooks/v2_image_captioning/
-notebooks/snips_clf/
-notebooks/snips_tok_clf/
+snips_clf/
+/snips_tok_clf/
 data/reviews.csv
 data/cached*
