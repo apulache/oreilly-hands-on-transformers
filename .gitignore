@@ -1,7 +1,7 @@
-.env
+*.env
 .DS_store
-.ipynb_checkpoints/
-notebooks/t5_summary_results
+*.ipynb_checkpoints/
+t5_summary_results
 notebooks/image_captioning
 english_to_latex
 notebooks/lightning_logs

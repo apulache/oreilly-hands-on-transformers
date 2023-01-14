@@ -8,6 +8,6 @@ librosa==0.8.1
 evaluate==0.4.0
 sentencepiece
 jupyterlab
-ipywidgets
+ipywidgets>=7.0,<8.0
 bs4
 python-dotenv
